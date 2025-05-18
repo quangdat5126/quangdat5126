@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @quangdat5126
-- 👀 I’m interested in soccer and music
-- 🌱 I’m currently learning Computer Science
+- 👋 Hi, I’m Dat (or just call me Mike)
+- 👀 I’m interested in soccer and music and building cool stuff
+- 🌱 I’m currently majoring in Computer Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
