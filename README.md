@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Dat (or just call me Mike)
-- 👀 I’m interested in soccer and music and building cool stuff
+- 👋 Hi, I’m Dat (or Mike)
+- 👀 I’m interested in soccer and music and learning cool stuff
 - 🌱 I’m currently majoring in Computer Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
